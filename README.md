@@ -8,7 +8,8 @@ This is bot made special for r/place (https://www.reddit.com/r/place/).
 3. Open folder with program.
 4. Run Reddit-Place-Bot.exe
 5. Paste your picture in special frame(PICTURE NEED TO BE PIXEL!!!)
-6. Run bot-net.
+6. Write coordinates (example: 1000x1000)
+7. Run bot-net.
 # Requirments:
 - Windows 7 or higher
 - Stable internet connection(<100ms)
