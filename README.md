@@ -1,2 +1,22 @@
 # Reddit-Placebot
 Free Reddit Place Bot.
+# About
+This is bot made special for r/place (https://www.reddit.com/r/place/).
+# How to use:
+1. Download .zip file.
+2. Unpack it to any folder on your desktop.
+3. Open folder with program.
+4. Run Reddit-Place-Bot.exe
+5. To battle!
+# Requirments:
+- Windows 7 or higher
+- Stable internet connection(<100ms)
+# Feauters:
+BOTNET.
+Proxy support.
+Change of any color in r/place.
+Tor support
+Over 100000 accounts in our botnet.
+# How to run: macOS
+I'm working on it.
+
