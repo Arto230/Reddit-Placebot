@@ -7,7 +7,8 @@ This is bot made special for r/place (https://www.reddit.com/r/place/).
 2. Unpack it to any folder on your desktop.
 3. Open folder with program.
 4. Run Reddit-Place-Bot.exe
-5. To battle!
+5. Paste your picture in special frame(PICTURE NEED TO BE PIXEL!!!)
+6. Run bot-net.
 # Requirments:
 - Windows 7 or higher
 - Stable internet connection(<100ms)
