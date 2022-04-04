@@ -1,5 +1,5 @@
 # Reddit-Placebot
-Free Reddit Place Bot.
+Free Bot for r/place.
 # About
 This is bot made special for r/place (https://www.reddit.com/r/place/).
 # How to use:
