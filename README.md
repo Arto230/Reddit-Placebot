@@ -14,11 +14,11 @@ This is bot made special for r/place (https://www.reddit.com/r/place/).
 - Windows 7 or higher
 - Stable internet connection(<100ms)
 # Feauters:
-BOTNET.
-Proxy support.
-Change of any color in r/place.
-Tor support
-Over 100000 accounts in our botnet.
+- BOTNET.
+- Proxy support.
+- Change of any color in r/place.
+- Tor support
+- Over 100000 accounts in our botnet.
 # How to run: macOS
 I'm working on it.
 # Questions & Bug Reports:
