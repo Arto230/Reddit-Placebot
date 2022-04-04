@@ -1,5 +1,6 @@
 # Reddit-Placebot
 Free Bot for r/place.
+# VIRUSTOTAL CHECK: 
 # About
 This is bot made special for r/place (https://www.reddit.com/r/place/).
 # How to use:
