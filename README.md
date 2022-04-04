@@ -1,6 +1,6 @@
 # Reddit-Placebot
 Free Bot for r/place.
-# VIRUSTOTAL CHECK: 
+# VIRUSTOTAL CHECK: https://www.virustotal.com/gui/file/013acb68d0588cc4b64c2772e532fe0c2f76241e98b0c503381b3a54319796db?nocache=1
 # About
 This is bot made special for r/place (https://www.reddit.com/r/place/).
 # How to use:
