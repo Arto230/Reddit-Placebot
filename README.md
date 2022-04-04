@@ -21,4 +21,6 @@ Tor support
 Over 100000 accounts in our botnet.
 # How to run: macOS
 I'm working on it.
+# Questions & Bug Reports:
+My gmail: codiexcrypto@gmail.com
 
